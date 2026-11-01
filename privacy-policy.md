@@ -1,5 +1,5 @@
 ---
-i yora Privacy Policy
+Dayora Privacy Policy
 ---
 
 # Dayora Privacy Policy
