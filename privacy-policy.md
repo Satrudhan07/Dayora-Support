@@ -1,5 +1,5 @@
 ---
-Dayora Privacy Policy
+title: Dayora Privacy Policy
 ---
 
 # Dayora Privacy Policy
@@ -30,6 +30,9 @@ Siri requests and widgets run on your device and use the same stored tasks. Dayo
 ## Exporting and deleting your data
 You can export your tasks (JSON or CSV) and delete them at any time from Settings. Deleting the app removes the data on that device; tasks in iCloud can be removed with "Delete all my data" first, or from iPhone Settings > [your name] > iCloud > Manage Storage.
 
+## Feedback
+If you choose "Send feedback" in Settings, Dayora opens an email draft addressed to us with your app and iOS version. Nothing is sent unless you press Send in your email app, and then we only receive what is in that email.
+
 ## Children
 Dayora does not knowingly collect any information from anyone, including children.
 
@@ -37,4 +40,4 @@ Dayora does not knowingly collect any information from anyone, including childre
 If this policy changes, the updated version will be posted here with a new date.
 
 ## Contact
-Questions: satrudhansingh009@gmail.com
+Questions: satrudhan.singhwork@gmail.com

@@ -4,7 +4,7 @@ title: Dayora Support
 
 # Dayora Support
 
-Need help or want to report a problem? Email **[your contact email]** and include your iPhone or iPad model and iOS version. Replies usually arrive within two working days.
+Need help or want to report a problem? Email **satrudhan.singhwork@gmail.com** and include your iPhone or iPad model and iOS version. Replies usually arrive within two working days.
 
 ## Common questions
 
