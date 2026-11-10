@@ -1,0 +1,13 @@
+<style>
+  /* Dayora logo beside the site title, top left of every page */
+  .markdown-body > h1:first-child a::before {
+    content: "";
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin-right: 12px;
+    vertical-align: middle;
+    border-radius: 9px;
+    background: url("{{ '/logo.png' | relative_url }}") center / cover no-repeat;
+  }
+</style>

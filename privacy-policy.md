@@ -2,8 +2,6 @@
 title: Dayora Privacy Policy
 ---
 
-<img src="logo.png" alt="Dayora logo" width="96" height="96" style="float:right; margin:0 0 12px 16px; border-radius:22px;">
-
 # Dayora Privacy Policy
 
 _Last updated: 1 November 2026_
